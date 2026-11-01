@@ -119,7 +119,8 @@ I used AI tools for help. Claude (Anthropic) helped me design the analysis steps
 Python packages: PyDESeq2 0.5.4, pandas 2.2.3 (newer pandas versions broke PyDESeq2 for me), SciPy, statsmodels, GSEApy, matplotlib.
 
 ## Repository contents
--`TNBC_differential_expression_clean.ipynb`: the analysis notebook
+
+- `TNBC_differential_expression_clean.ipynb`: the analysis notebook
 - `figures/`: volcano plot and replication scatter plot
 
 ## References
